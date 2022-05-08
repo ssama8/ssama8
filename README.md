@@ -1,15 +1,14 @@
 Hi 👋 My name is Saket Sama
 ===========================
 
-Front End Developer
+Full Stack Developer
 -------------------
-
-I've been learning code for over a year now. Started off with HTML and CSS. Worked myself up to JavaScript and now am building complete applications with React.
+My name is PSaket, and I am a full stack web developer but enjoy working more on the frontend. I enjoy using cutting edge technologies to build clean applications that are easy to navigate and use. I'm currently working on a new social network app, Eventstagram where people can create their own events and message each other. When I'm not staring at code, you can catch me watching basketball (huge NBA fan), watching Skip Bayless utter complete nonsense, watching Youtube, at the gym, writing, or in my bed chilling.  
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [Portfolio](http://saket-sama-portfolio.netlify.app)
 * ✉️  You can contact me at [saketsama73@gmail.com](mailto:saketsama73@gmail.com)
-* 🧠  I'm learning Ruby on Rails
+* 🧠  I'm learning Graphql
 * 🤝  I'm open to collaborating on React projects that get data from an API
 
 ### Skills
