@@ -3,7 +3,7 @@ Hi 👋 My name is Saket Sama
 
 Full Stack Developer
 -------------------
-My name is PSaket, and I am a full stack web developer but enjoy working more on the frontend. I enjoy using cutting edge technologies to build clean applications that are easy to navigate and use. I'm currently working on a new social network app, Eventstagram where people can create their own events and message each other. When I'm not staring at code, you can catch me watching basketball (huge NBA fan), watching Skip Bayless utter complete nonsense, watching Youtube, at the gym, writing, or in my bed chilling.  
+My name is Saket, and I am a full stack web developer with React on the frontend and Node on the backend. but enjoy working more on the frontend. I enjoy using cutting edge technologies to build clean applications that are easy to navigate and use. I'm currently working on a new social network app, Eventstagram where people can create their own events and message each other. When I'm not staring at code, you can catch me watching basketball (huge NBA fan), watching Skip Bayless utter complete nonsense, watching Youtube, at the gym, writing, or in my bed chilling.  
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [Portfolio](http://saket-sama-portfolio.netlify.app)
