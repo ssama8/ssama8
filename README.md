@@ -8,8 +8,8 @@ My name is Saket, and I am a full stack web developer with React on the frontend
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [Portfolio](http://saket-sama-portfolio.netlify.app)
 * ✉️  You can contact me at [saketsama73@gmail.com](mailto:saketsama73@gmail.com)
-* 🧠  I'm learning Graphql
-* 🤝  I'm open to collaborating on React projects that get data from an API
+* 🧠  I'm currently learning Java
+* 🤝  I'm open to collaborating on React projects
 
 ### Skills
 
